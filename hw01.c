@@ -1,3 +1,4 @@
+/*Link to the task: https://www.fi.muni.cz/pb071/hw/homework-01/ */
 #include <ctype.h>
 #include <stdbool.h>
 #include <stdio.h>
